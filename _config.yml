@@ -8,3 +8,5 @@ URL: "https://prudento-nl.github.io/2018-06-kamperen-frankrijk/"
 markdown: kramdown
 theme: minima
 #theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
