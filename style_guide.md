@@ -1,7 +1,7 @@
 >>>>>>>>>>> Kopie op Dropbox paper <<<<<<<<<<<
 ===== Blog =====
-- Site: https://prudento-nl.github.io/2017-09-frankrijk/
-- GitHub posts: https://github.com/Prudento-NL/2017-09-frankrijk/tree/master/_posts
+- Site: https://prudento-nl.github.io/2018-06-kamperen-frankrijk/
+- GitHub posts: https://github.com/Prudento-NL/2018-06-kamperen-frankrijk/tree/master/_posts
 
 ===== Format posts =====
 ---
@@ -16,7 +16,7 @@ Tekst
 - 2011-12-31-new-years-eve-is-awesome.md
 
 ===== URL =====
-Indien verwezen wordt naar directories waarin documenten ofimages staan.
+Indien verwezen wordt naar directories waarin documenten of images staan.
 Toevoegen in _config.yml
 - url: https://prudento-nl.github.io/test
 
@@ -25,7 +25,7 @@ Toevoegen in _config.yml
 
 ===== Links =====
 - alles in de tekst
-  [Jekyll](http://jekyllrb.com/) 
+  [Jekyll](http://jekyllrb.com/)
 - In de tekst de verwijzing tussen rechte haken en onderaan de blog de verwijzing zoals in Jekyll WERKT NIET IN GITHUB.
 
 ===== Images =====
@@ -36,7 +36,7 @@ Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_con
 - Image op een website:
   ![Je eigen tekst](Hyperlink)
   Voorbeeld ![Mickey](https://forum.nl.forgeofempires.com/index.php?attachments/glitter_krabbel_plaatje_003-gif.881/)
-  
+
 ===== Image met link naar eigen directory =====
 - Ga naar de Image folder
 - Klik op het gewenste bestand >> Het plaatje opent.
