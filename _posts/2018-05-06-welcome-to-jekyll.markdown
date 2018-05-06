@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  De site voor de blog is gemaakt!
-date:   2018-05-06 15:13:49 +0200
-categories: jekyll update
+date:   2018-05-06 15:15:15
 ---
 # We gaan weer op vakantie!
 Het is weer leuk om daar dan ook weer een verslag van bij te houden, in de vorm van een blog net als vorig jaar.  
