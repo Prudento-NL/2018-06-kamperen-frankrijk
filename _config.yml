@@ -2,7 +2,8 @@
 title: Vakantie Juni 2018
 author: Teksten geschreven door Kees
 description: Website gemaakt door Kees
-URL: "https://prudento-nl.github.io/2018-06-kamperen-frankrijk/"
+URL: "https://prudento-nl.github.io/2018-06-kamperen-frankrijk"
+images: "https://prudento-nl.github.io/2018-06-kamperen-frankrijk/images"
 
 # Build settings
 markdown: kramdown

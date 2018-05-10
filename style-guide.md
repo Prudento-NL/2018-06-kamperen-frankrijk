@@ -1,7 +1,7 @@
 >>>>>>>>>>> Kopie op Dropbox paper <<<<<<<<<<<
 ===== Blog =====
-- Site: https://prudento-nl.github.io/2018-06-kamperen-frankrijk/
-- GitHub posts: https://github.com/Prudento-NL/2018-06-kamperen-frankrijk/tree/master/_posts
+- Site: https://prudento-nl.github.io/2017-09-frankrijk/
+- GitHub posts: https://github.com/Prudento-NL/2017-09-frankrijk/tree/master/_posts
 
 ===== Format posts =====
 ---
@@ -18,7 +18,8 @@ Tekst
 ===== URL =====
 Indien verwezen wordt naar directories waarin documenten of images staan.
 Toevoegen in _config.yml
-- url: https://prudento-nl.github.io/test
+URL: "https://prudento-nl.github.io/2017-09-frankrijk"
+images: "https://prudento-nl.github.io/2017-09-frankrijk/images"
 
 ===== Comments =====
 <!--- commentaar --->
@@ -30,6 +31,10 @@ Toevoegen in _config.yml
 
 ===== Images =====
 Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_config.yml.
+
+> > > > > > DIT WERKT:
+![Kasteel]({{ site.images }}/dag7.jpg?raw=true)
+--------------------------------------------
 - Image uit een directory bijvoorbeeld ‘Images’:
   ![Je eigen tekst]({{ site.url }}/directory/filenaam.jpg)
   Voorbeeld ![Dulfer]({{ site.url }}/images/dulfer.jpg)
