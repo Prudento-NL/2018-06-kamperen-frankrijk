@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  De site voor de blog is gemaakt!
-date:   2018-05-06 15:15:15
+date:   2018-05-06
 ---
 
 # We gaan weer op vakantie!
