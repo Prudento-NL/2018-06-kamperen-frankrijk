@@ -57,6 +57,10 @@ Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_con
  <img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07?s=128&d=identicon&r=PG">
 </a>
 
+===== Resize =====
+Bij mobiel: gebruik fotoresizer
+- Verklein de foto naar de dimensie: 832 x 1664 (40%)
+
 ===== Referenties =====
 
 - Markdown (GFM): https://guides.github.com/features/mastering-markdown/
