@@ -59,7 +59,8 @@ Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_con
 
 ===== Resize =====
 Bij mobiel: gebruik fotoresizer
-- Verklein de foto naar de dimensie: 832 x 1664 (40%)
+- oud-Verklein de foto naar de dimensie: 832 x 1664 (40%)
+- resize naar format 800x1600
 
 ===== Referenties =====
 
