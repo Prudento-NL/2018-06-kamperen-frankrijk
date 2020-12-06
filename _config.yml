@@ -2,7 +2,8 @@
 title: Vakantie Juni 2018 - Frankrijk
 author: Kees
 description: Blog van de kampeervakantie van juni 2018
-URL: "https://prudento-nl.github.io/2018-06-kamperen-frankrijk"
+baseurl: "/2018-06-kamperen-frankrijk"
+url: "https://prudento-nl.github.io" 
 images: "https://prudento-nl.github.io/2018-06-kamperen-frankrijk/images"
 
 # Build settings
